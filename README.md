@@ -1,10 +1,26 @@
 # FAWE - Elemental Multiplayer Combat Game
 
-![FAWE Logo](Assets/Art/UI/fawelogo.png)
+![fawe](https://github.com/user-attachments/assets/9d8a08bc-fa5f-4d48-957c-e3d0ed2b631a)
+
 
 ## Project Overview
 
 FAWE (Fire, Air, Water, Earth) is a multiplayer elemental combat game developed in Unity with Netcode for GameObjects. This project was created as a graduation thesis to demonstrate the implementation of multiplayer networking, elemental-based gameplay mechanics, and real-time combat systems.
+
+![Resim2](https://github.com/user-attachments/assets/a97045f2-67a4-4d51-a4e7-1bd8349e6cc6)
+
+![Resim3](https://github.com/user-attachments/assets/b5b5c172-3af8-4d70-86a6-775ad1ab8e28)
+
+![Resim4](https://github.com/user-attachments/assets/4d3d7c67-8d00-4dd8-9657-3ac8c111e736)
+![Resim5](https://github.com/user-attachments/assets/8215a8db-57ee-45b8-9f8a-85b82ed8a166)
+
+![Resim6](https://github.com/user-attachments/assets/9599b53d-6d0f-4a4e-8526-9d0b5561b0f0)
+![Resim7](https://github.com/user-attachments/assets/c7e052f2-4ef4-4a94-a84b-5858b3157920)
+![Resim8](https://github.com/user-attachments/assets/c05ed265-85b5-44ef-bd6a-550ec751f832)
+![Resim9](https://github.com/user-attachments/assets/44ff7e94-2887-4d8f-a891-178d44b9a939)
+
+
+
 
 ## Game Features
 
